@@ -1,2 +1,2 @@
-# my1st-librery
-LIb file
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
